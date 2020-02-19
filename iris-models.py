@@ -450,10 +450,10 @@ y_val = torch.cat(y_val).to(device)
 # perform inference
 model.eval()
 with torch.no_grad():
-    outcomes = model(X_val)
+    outcomes = model(X_val).cpu()
     y_val_preds = outcomes.argmax(dim=1).numpy()
     y_val_probs = torch.softmax(outcomes, dim=1).numpy()
-    y_val = y_val.numpy()
+    y_val = y_val.cpu().numpy()
 
 
 # In[20]:

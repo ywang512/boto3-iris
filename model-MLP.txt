@@ -8,408 +8,408 @@ Training size: 105
 Evaluating size: 45
 
 Epoch 1/100
-  train:  Loss: 1.1278  ACC: 31.43%
-  val:    Loss: 1.1575  ACC: 24.44%
+  train:  Loss: 1.1149  ACC: 30.48%
+  val:    Loss: 1.1414  ACC: 24.44%
 
 Epoch 2/100
-  train:  Loss: 1.1500  ACC: 22.86%
-  val:    Loss: 1.1061  ACC: 24.44%
+  train:  Loss: 1.1319  ACC: 22.86%
+  val:    Loss: 1.0983  ACC: 24.44%
 
 Epoch 3/100
-  train:  Loss: 1.1019  ACC: 37.14%
-  val:    Loss: 1.2024  ACC: 24.44%
+  train:  Loss: 1.0929  ACC: 37.14%
+  val:    Loss: 1.1760  ACC: 24.44%
 
 Epoch 4/100
-  train:  Loss: 1.1272  ACC: 27.62%
-  val:    Loss: 1.1062  ACC: 24.44%
+  train:  Loss: 1.1226  ACC: 27.62%
+  val:    Loss: 1.1039  ACC: 55.56%
 
 Epoch 5/100
-  train:  Loss: 1.1108  ACC: 37.14%
-  val:    Loss: 1.1420  ACC: 24.44%
+  train:  Loss: 1.0896  ACC: 44.76%
+  val:    Loss: 1.1287  ACC: 24.44%
 
 Epoch 6/100
-  train:  Loss: 1.1172  ACC: 30.48%
-  val:    Loss: 1.0922  ACC: 35.56%
+  train:  Loss: 1.1058  ACC: 27.62%
+  val:    Loss: 1.0715  ACC: 60.00%
 
 Epoch 7/100
-  train:  Loss: 1.1303  ACC: 27.62%
-  val:    Loss: 1.1631  ACC: 24.44%
+  train:  Loss: 1.0961  ACC: 43.81%
+  val:    Loss: 1.1404  ACC: 24.44%
 
 Epoch 8/100
-  train:  Loss: 1.1375  ACC: 28.57%
-  val:    Loss: 1.0530  ACC: 40.00%
+  train:  Loss: 1.0938  ACC: 35.24%
+  val:    Loss: 1.0109  ACC: 75.56%
 
 Epoch 9/100
-  train:  Loss: 1.0820  ACC: 39.05%
-  val:    Loss: 1.1717  ACC: 24.44%
+  train:  Loss: 1.0228  ACC: 42.86%
+  val:    Loss: 1.0859  ACC: 24.44%
 
 Epoch 10/100
-  train:  Loss: 1.0821  ACC: 33.33%
-  val:    Loss: 1.0340  ACC: 75.56%
+  train:  Loss: 0.9888  ACC: 60.00%
+  val:    Loss: 0.9330  ACC: 77.78%
 
 Epoch 11/100
-  train:  Loss: 1.0707  ACC: 37.14%
-  val:    Loss: 1.0454  ACC: 60.00%
+  train:  Loss: 0.9365  ACC: 72.38%
+  val:    Loss: 0.8927  ACC: 60.00%
 
 Epoch 12/100
-  train:  Loss: 1.0137  ACC: 51.43%
-  val:    Loss: 1.0477  ACC: 24.44%
+  train:  Loss: 0.8290  ACC: 69.52%
+  val:    Loss: 0.8177  ACC: 60.00%
 
 Epoch 13/100
-  train:  Loss: 0.9945  ACC: 55.24%
-  val:    Loss: 0.8861  ACC: 75.56%
+  train:  Loss: 0.7554  ACC: 61.90%
+  val:    Loss: 0.6362  ACC: 75.56%
 
 Epoch 14/100
-  train:  Loss: 0.8634  ACC: 68.57%
-  val:    Loss: 0.8901  ACC: 60.00%
+  train:  Loss: 0.6061  ACC: 74.29%
+  val:    Loss: 0.6493  ACC: 60.00%
 
 Epoch 15/100
-  train:  Loss: 0.7827  ACC: 69.52%
-  val:    Loss: 0.7345  ACC: 60.00%
+  train:  Loss: 0.5399  ACC: 70.48%
+  val:    Loss: 0.5144  ACC: 66.67%
 
 Epoch 16/100
-  train:  Loss: 0.6966  ACC: 68.57%
-  val:    Loss: 0.6034  ACC: 80.00%
+  train:  Loss: 0.5102  ACC: 75.24%
+  val:    Loss: 0.4567  ACC: 97.78%
 
 Epoch 17/100
-  train:  Loss: 0.5787  ACC: 76.19%
-  val:    Loss: 0.6250  ACC: 60.00%
+  train:  Loss: 0.4461  ACC: 80.00%
+  val:    Loss: 0.5059  ACC: 60.00%
 
 Epoch 18/100
-  train:  Loss: 0.5273  ACC: 73.33%
-  val:    Loss: 0.5046  ACC: 77.78%
+  train:  Loss: 0.4197  ACC: 88.57%
+  val:    Loss: 0.4011  ACC: 97.78%
 
 Epoch 19/100
-  train:  Loss: 0.4893  ACC: 94.29%
-  val:    Loss: 0.4918  ACC: 62.22%
+  train:  Loss: 0.3836  ACC: 93.33%
+  val:    Loss: 0.4511  ACC: 64.44%
 
 Epoch 20/100
-  train:  Loss: 0.4544  ACC: 72.38%
-  val:    Loss: 0.4833  ACC: 62.22%
+  train:  Loss: 0.3729  ACC: 85.71%
+  val:    Loss: 0.3567  ACC: 97.78%
 
 Epoch 21/100
-  train:  Loss: 0.4272  ACC: 88.57%
-  val:    Loss: 0.4167  ACC: 93.33%
+  train:  Loss: 0.3224  ACC: 96.19%
+  val:    Loss: 0.3775  ACC: 80.00%
 
 Epoch 22/100
-  train:  Loss: 0.3866  ACC: 95.24%
-  val:    Loss: 0.4395  ACC: 73.33%
+  train:  Loss: 0.3102  ACC: 97.14%
+  val:    Loss: 0.3515  ACC: 84.44%
 
 Epoch 23/100
-  train:  Loss: 0.3667  ACC: 89.52%
-  val:    Loss: 0.3686  ACC: 97.78%
+  train:  Loss: 0.2776  ACC: 95.24%
+  val:    Loss: 0.2884  ACC: 97.78%
 
 Epoch 24/100
-  train:  Loss: 0.3480  ACC: 91.43%
-  val:    Loss: 0.3473  ACC: 97.78%
+  train:  Loss: 0.2649  ACC: 94.29%
+  val:    Loss: 0.2668  ACC: 97.78%
 
 Epoch 25/100
-  train:  Loss: 0.3279  ACC: 93.33%
-  val:    Loss: 0.3284  ACC: 97.78%
+  train:  Loss: 0.2592  ACC: 94.29%
+  val:    Loss: 0.2608  ACC: 97.78%
 
 Epoch 26/100
-  train:  Loss: 0.2959  ACC: 96.19%
-  val:    Loss: 0.3197  ACC: 97.78%
+  train:  Loss: 0.2195  ACC: 97.14%
+  val:    Loss: 0.2513  ACC: 97.78%
 
 Epoch 27/100
-  train:  Loss: 0.2937  ACC: 96.19%
-  val:    Loss: 0.3239  ACC: 97.78%
+  train:  Loss: 0.2182  ACC: 97.14%
+  val:    Loss: 0.2579  ACC: 97.78%
 
 Epoch 28/100
-  train:  Loss: 0.2905  ACC: 96.19%
-  val:    Loss: 0.3318  ACC: 97.78%
+  train:  Loss: 0.2152  ACC: 96.19%
+  val:    Loss: 0.2704  ACC: 95.56%
 
 Epoch 29/100
-  train:  Loss: 0.2892  ACC: 95.24%
-  val:    Loss: 0.3310  ACC: 97.78%
+  train:  Loss: 0.2153  ACC: 96.19%
+  val:    Loss: 0.2656  ACC: 95.56%
 
 Epoch 30/100
-  train:  Loss: 0.2869  ACC: 95.24%
-  val:    Loss: 0.3251  ACC: 97.78%
+  train:  Loss: 0.2130  ACC: 96.19%
+  val:    Loss: 0.2591  ACC: 95.56%
 
 Epoch 31/100
-  train:  Loss: 0.2843  ACC: 95.24%
-  val:    Loss: 0.3181  ACC: 97.78%
+  train:  Loss: 0.2111  ACC: 97.14%
+  val:    Loss: 0.2527  ACC: 97.78%
 
 Epoch 32/100
-  train:  Loss: 0.2821  ACC: 96.19%
-  val:    Loss: 0.3168  ACC: 97.78%
+  train:  Loss: 0.2097  ACC: 97.14%
+  val:    Loss: 0.2535  ACC: 97.78%
 
 Epoch 33/100
-  train:  Loss: 0.2811  ACC: 96.19%
-  val:    Loss: 0.3209  ACC: 97.78%
+  train:  Loss: 0.2093  ACC: 96.19%
+  val:    Loss: 0.2574  ACC: 95.56%
 
 Epoch 34/100
-  train:  Loss: 0.2778  ACC: 96.19%
-  val:    Loss: 0.3133  ACC: 97.78%
+  train:  Loss: 0.2066  ACC: 96.19%
+  val:    Loss: 0.2505  ACC: 97.78%
 
 Epoch 35/100
-  train:  Loss: 0.2764  ACC: 96.19%
-  val:    Loss: 0.3074  ACC: 97.78%
+  train:  Loss: 0.2056  ACC: 97.14%
+  val:    Loss: 0.2466  ACC: 97.78%
 
 Epoch 36/100
-  train:  Loss: 0.2738  ACC: 96.19%
-  val:    Loss: 0.3130  ACC: 97.78%
+  train:  Loss: 0.2039  ACC: 97.14%
+  val:    Loss: 0.2519  ACC: 95.56%
 
 Epoch 37/100
-  train:  Loss: 0.2720  ACC: 96.19%
-  val:    Loss: 0.3124  ACC: 97.78%
+  train:  Loss: 0.2028  ACC: 96.19%
+  val:    Loss: 0.2526  ACC: 95.56%
 
 Epoch 38/100
-  train:  Loss: 0.2710  ACC: 96.19%
-  val:    Loss: 0.3035  ACC: 97.78%
+  train:  Loss: 0.2029  ACC: 97.14%
+  val:    Loss: 0.2434  ACC: 97.78%
 
 Epoch 39/100
-  train:  Loss: 0.2689  ACC: 96.19%
-  val:    Loss: 0.3005  ACC: 97.78%
+  train:  Loss: 0.2008  ACC: 97.14%
+  val:    Loss: 0.2422  ACC: 97.78%
 
 Epoch 40/100
-  train:  Loss: 0.2680  ACC: 95.24%
-  val:    Loss: 0.3121  ACC: 97.78%
+  train:  Loss: 0.2015  ACC: 96.19%
+  val:    Loss: 0.2559  ACC: 95.56%
 
 Epoch 41/100
-  train:  Loss: 0.2648  ACC: 95.24%
-  val:    Loss: 0.2981  ACC: 97.78%
+  train:  Loss: 0.1985  ACC: 97.14%
+  val:    Loss: 0.2377  ACC: 97.78%
 
 Epoch 42/100
-  train:  Loss: 0.2624  ACC: 96.19%
-  val:    Loss: 0.2943  ACC: 97.78%
+  train:  Loss: 0.1966  ACC: 97.14%
+  val:    Loss: 0.2360  ACC: 97.78%
 
 Epoch 43/100
-  train:  Loss: 0.2609  ACC: 96.19%
-  val:    Loss: 0.2965  ACC: 97.78%
+  train:  Loss: 0.1957  ACC: 97.14%
+  val:    Loss: 0.2422  ACC: 95.56%
 
 Epoch 44/100
-  train:  Loss: 0.2584  ACC: 96.19%
-  val:    Loss: 0.2960  ACC: 97.78%
+  train:  Loss: 0.1936  ACC: 97.14%
+  val:    Loss: 0.2398  ACC: 97.78%
 
 Epoch 45/100
-  train:  Loss: 0.2568  ACC: 96.19%
-  val:    Loss: 0.2952  ACC: 97.78%
+  train:  Loss: 0.1925  ACC: 97.14%
+  val:    Loss: 0.2387  ACC: 97.78%
 
 Epoch 46/100
-  train:  Loss: 0.2565  ACC: 96.19%
-  val:    Loss: 0.2868  ACC: 97.78%
+  train:  Loss: 0.1931  ACC: 97.14%
+  val:    Loss: 0.2315  ACC: 97.78%
 
 Epoch 47/100
-  train:  Loss: 0.2538  ACC: 96.19%
-  val:    Loss: 0.2960  ACC: 97.78%
+  train:  Loss: 0.1909  ACC: 97.14%
+  val:    Loss: 0.2430  ACC: 95.56%
 
 Epoch 48/100
-  train:  Loss: 0.2520  ACC: 96.19%
-  val:    Loss: 0.2901  ACC: 97.78%
+  train:  Loss: 0.1896  ACC: 96.19%
+  val:    Loss: 0.2362  ACC: 95.56%
 
 Epoch 49/100
-  train:  Loss: 0.2504  ACC: 96.19%
-  val:    Loss: 0.2809  ACC: 97.78%
+  train:  Loss: 0.1885  ACC: 97.14%
+  val:    Loss: 0.2280  ACC: 97.78%
 
 Epoch 50/100
-  train:  Loss: 0.2487  ACC: 96.19%
-  val:    Loss: 0.2817  ACC: 97.78%
+  train:  Loss: 0.1874  ACC: 97.14%
+  val:    Loss: 0.2297  ACC: 97.78%
 
 Epoch 51/100
-  train:  Loss: 0.2468  ACC: 96.19%
-  val:    Loss: 0.2831  ACC: 97.78%
+  train:  Loss: 0.1859  ACC: 97.14%
+  val:    Loss: 0.2312  ACC: 97.78%
 
 Epoch 52/100
-  train:  Loss: 0.2465  ACC: 96.19%
-  val:    Loss: 0.2837  ACC: 97.78%
+  train:  Loss: 0.1856  ACC: 97.14%
+  val:    Loss: 0.2318  ACC: 97.78%
 
 Epoch 53/100
-  train:  Loss: 0.2463  ACC: 96.19%
-  val:    Loss: 0.2838  ACC: 97.78%
+  train:  Loss: 0.1855  ACC: 97.14%
+  val:    Loss: 0.2319  ACC: 97.78%
 
 Epoch 54/100
-  train:  Loss: 0.2463  ACC: 96.19%
-  val:    Loss: 0.2847  ACC: 97.78%
+  train:  Loss: 0.1855  ACC: 97.14%
+  val:    Loss: 0.2327  ACC: 97.78%
 
 Epoch 55/100
-  train:  Loss: 0.2460  ACC: 96.19%
-  val:    Loss: 0.2851  ACC: 97.78%
+  train:  Loss: 0.1853  ACC: 97.14%
+  val:    Loss: 0.2331  ACC: 95.56%
 
 Epoch 56/100
-  train:  Loss: 0.2459  ACC: 96.19%
-  val:    Loss: 0.2856  ACC: 97.78%
+  train:  Loss: 0.1852  ACC: 97.14%
+  val:    Loss: 0.2334  ACC: 95.56%
 
 Epoch 57/100
-  train:  Loss: 0.2457  ACC: 96.19%
-  val:    Loss: 0.2848  ACC: 97.78%
+  train:  Loss: 0.1851  ACC: 97.14%
+  val:    Loss: 0.2327  ACC: 97.78%
 
 Epoch 58/100
-  train:  Loss: 0.2455  ACC: 96.19%
-  val:    Loss: 0.2840  ACC: 97.78%
+  train:  Loss: 0.1850  ACC: 97.14%
+  val:    Loss: 0.2317  ACC: 97.78%
 
 Epoch 59/100
-  train:  Loss: 0.2453  ACC: 96.19%
-  val:    Loss: 0.2836  ACC: 97.78%
+  train:  Loss: 0.1849  ACC: 97.14%
+  val:    Loss: 0.2315  ACC: 97.78%
 
 Epoch 60/100
-  train:  Loss: 0.2452  ACC: 96.19%
-  val:    Loss: 0.2831  ACC: 97.78%
+  train:  Loss: 0.1848  ACC: 97.14%
+  val:    Loss: 0.2311  ACC: 97.78%
 
 Epoch 61/100
-  train:  Loss: 0.2450  ACC: 96.19%
-  val:    Loss: 0.2830  ACC: 97.78%
+  train:  Loss: 0.1847  ACC: 97.14%
+  val:    Loss: 0.2308  ACC: 97.78%
 
 Epoch 62/100
-  train:  Loss: 0.2449  ACC: 96.19%
-  val:    Loss: 0.2833  ACC: 97.78%
+  train:  Loss: 0.1847  ACC: 97.14%
+  val:    Loss: 0.2316  ACC: 97.78%
 
 Epoch 63/100
-  train:  Loss: 0.2447  ACC: 96.19%
-  val:    Loss: 0.2830  ACC: 97.78%
+  train:  Loss: 0.1845  ACC: 97.14%
+  val:    Loss: 0.2313  ACC: 97.78%
 
 Epoch 64/100
-  train:  Loss: 0.2446  ACC: 96.19%
-  val:    Loss: 0.2835  ACC: 97.78%
+  train:  Loss: 0.1844  ACC: 97.14%
+  val:    Loss: 0.2318  ACC: 97.78%
 
 Epoch 65/100
-  train:  Loss: 0.2443  ACC: 96.19%
-  val:    Loss: 0.2832  ACC: 97.78%
+  train:  Loss: 0.1842  ACC: 97.14%
+  val:    Loss: 0.2317  ACC: 97.78%
 
 Epoch 66/100
-  train:  Loss: 0.2442  ACC: 96.19%
-  val:    Loss: 0.2821  ACC: 97.78%
+  train:  Loss: 0.1842  ACC: 97.14%
+  val:    Loss: 0.2306  ACC: 97.78%
 
 Epoch 67/100
-  train:  Loss: 0.2441  ACC: 96.19%
-  val:    Loss: 0.2808  ACC: 97.78%
+  train:  Loss: 0.1841  ACC: 97.14%
+  val:    Loss: 0.2293  ACC: 97.78%
 
 Epoch 68/100
-  train:  Loss: 0.2439  ACC: 96.19%
-  val:    Loss: 0.2810  ACC: 97.78%
+  train:  Loss: 0.1840  ACC: 97.14%
+  val:    Loss: 0.2295  ACC: 97.78%
 
 Epoch 69/100
-  train:  Loss: 0.2437  ACC: 96.19%
-  val:    Loss: 0.2802  ACC: 97.78%
+  train:  Loss: 0.1838  ACC: 97.14%
+  val:    Loss: 0.2286  ACC: 97.78%
 
 Epoch 70/100
-  train:  Loss: 0.2436  ACC: 96.19%
-  val:    Loss: 0.2797  ACC: 97.78%
+  train:  Loss: 0.1837  ACC: 97.14%
+  val:    Loss: 0.2284  ACC: 97.78%
 
 Epoch 71/100
-  train:  Loss: 0.2434  ACC: 96.19%
-  val:    Loss: 0.2797  ACC: 97.78%
+  train:  Loss: 0.1836  ACC: 97.14%
+  val:    Loss: 0.2285  ACC: 97.78%
 
 Epoch 72/100
-  train:  Loss: 0.2432  ACC: 96.19%
-  val:    Loss: 0.2809  ACC: 97.78%
+  train:  Loss: 0.1835  ACC: 97.14%
+  val:    Loss: 0.2298  ACC: 97.78%
 
 Epoch 73/100
-  train:  Loss: 0.2430  ACC: 96.19%
-  val:    Loss: 0.2810  ACC: 97.78%
+  train:  Loss: 0.1833  ACC: 97.14%
+  val:    Loss: 0.2298  ACC: 97.78%
 
 Epoch 74/100
-  train:  Loss: 0.2428  ACC: 96.19%
-  val:    Loss: 0.2812  ACC: 97.78%
+  train:  Loss: 0.1832  ACC: 97.14%
+  val:    Loss: 0.2300  ACC: 97.78%
 
 Epoch 75/100
-  train:  Loss: 0.2428  ACC: 96.19%
-  val:    Loss: 0.2804  ACC: 97.78%
+  train:  Loss: 0.1833  ACC: 97.14%
+  val:    Loss: 0.2294  ACC: 97.78%
 
 Epoch 76/100
-  train:  Loss: 0.2425  ACC: 96.19%
-  val:    Loss: 0.2805  ACC: 97.78%
+  train:  Loss: 0.1830  ACC: 97.14%
+  val:    Loss: 0.2295  ACC: 97.78%
 
 Epoch 77/100
-  train:  Loss: 0.2425  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1830  ACC: 97.14%
+  val:    Loss: 0.2296  ACC: 97.78%
 
 Epoch 78/100
-  train:  Loss: 0.2425  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1830  ACC: 97.14%
+  val:    Loss: 0.2296  ACC: 97.78%
 
 Epoch 79/100
-  train:  Loss: 0.2425  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1830  ACC: 97.14%
+  val:    Loss: 0.2296  ACC: 97.78%
 
 Epoch 80/100
-  train:  Loss: 0.2425  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1830  ACC: 97.14%
+  val:    Loss: 0.2297  ACC: 97.78%
 
 Epoch 81/100
-  train:  Loss: 0.2425  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1830  ACC: 97.14%
+  val:    Loss: 0.2296  ACC: 97.78%
 
 Epoch 82/100
-  train:  Loss: 0.2424  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1830  ACC: 97.14%
+  val:    Loss: 0.2297  ACC: 97.78%
 
 Epoch 83/100
-  train:  Loss: 0.2424  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1830  ACC: 97.14%
+  val:    Loss: 0.2297  ACC: 97.78%
 
 Epoch 84/100
-  train:  Loss: 0.2424  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1829  ACC: 97.14%
+  val:    Loss: 0.2297  ACC: 97.78%
 
 Epoch 85/100
-  train:  Loss: 0.2424  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1829  ACC: 97.14%
+  val:    Loss: 0.2297  ACC: 97.78%
 
 Epoch 86/100
-  train:  Loss: 0.2424  ACC: 96.19%
-  val:    Loss: 0.2805  ACC: 97.78%
+  train:  Loss: 0.1829  ACC: 97.14%
+  val:    Loss: 0.2296  ACC: 97.78%
 
 Epoch 87/100
-  train:  Loss: 0.2424  ACC: 96.19%
-  val:    Loss: 0.2804  ACC: 97.78%
+  train:  Loss: 0.1829  ACC: 97.14%
+  val:    Loss: 0.2295  ACC: 97.78%
 
 Epoch 88/100
-  train:  Loss: 0.2423  ACC: 96.19%
-  val:    Loss: 0.2805  ACC: 97.78%
+  train:  Loss: 0.1829  ACC: 97.14%
+  val:    Loss: 0.2296  ACC: 97.78%
 
 Epoch 89/100
-  train:  Loss: 0.2423  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1829  ACC: 97.14%
+  val:    Loss: 0.2297  ACC: 97.78%
 
 Epoch 90/100
-  train:  Loss: 0.2423  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1829  ACC: 97.14%
+  val:    Loss: 0.2297  ACC: 97.78%
 
 Epoch 91/100
-  train:  Loss: 0.2423  ACC: 96.19%
-  val:    Loss: 0.2805  ACC: 97.78%
+  train:  Loss: 0.1829  ACC: 97.14%
+  val:    Loss: 0.2296  ACC: 97.78%
 
 Epoch 92/100
-  train:  Loss: 0.2423  ACC: 96.19%
-  val:    Loss: 0.2805  ACC: 97.78%
+  train:  Loss: 0.1829  ACC: 97.14%
+  val:    Loss: 0.2296  ACC: 97.78%
 
 Epoch 93/100
-  train:  Loss: 0.2423  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1828  ACC: 97.14%
+  val:    Loss: 0.2297  ACC: 97.78%
 
 Epoch 94/100
-  train:  Loss: 0.2422  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1828  ACC: 97.14%
+  val:    Loss: 0.2298  ACC: 97.78%
 
 Epoch 95/100
-  train:  Loss: 0.2422  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1828  ACC: 97.14%
+  val:    Loss: 0.2297  ACC: 97.78%
 
 Epoch 96/100
-  train:  Loss: 0.2422  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1828  ACC: 97.14%
+  val:    Loss: 0.2297  ACC: 97.78%
 
 Epoch 97/100
-  train:  Loss: 0.2422  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1828  ACC: 97.14%
+  val:    Loss: 0.2297  ACC: 97.78%
 
 Epoch 98/100
-  train:  Loss: 0.2422  ACC: 96.19%
-  val:    Loss: 0.2806  ACC: 97.78%
+  train:  Loss: 0.1828  ACC: 97.14%
+  val:    Loss: 0.2297  ACC: 97.78%
 
 Epoch 99/100
-  train:  Loss: 0.2422  ACC: 96.19%
-  val:    Loss: 0.2805  ACC: 97.78%
+  train:  Loss: 0.1828  ACC: 97.14%
+  val:    Loss: 0.2296  ACC: 97.78%
 
 Epoch 100/100
-  train:  Loss: 0.2421  ACC: 96.19%
-  val:    Loss: 0.2804  ACC: 97.78%
+  train:  Loss: 0.1828  ACC: 97.14%
+  val:    Loss: 0.2295  ACC: 97.78%
 
 ----------
-Training complete in 0m 0s
-Best val Loss: 0.279669 at epoch 71 with ACC: 97.777778%
+Training complete in 0m 1s
+Best val Loss: 0.227963 at epoch 49 with ACC: 97.777778%
 Load the model weights at the best epoch
 
 ------------------------------
