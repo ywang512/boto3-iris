@@ -1,6 +1,6 @@
 # boto3-iris
 
-A imple machine learning implementation in aws boto3 environment
+A simple machine learning implementation in aws boto3 environment
 
 
 `iris-EDA.ipynb` and `iris-EDA.py` have the same functions for EDA dataset.
