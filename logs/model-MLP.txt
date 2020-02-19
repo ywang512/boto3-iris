@@ -1,0 +1,420 @@
+Model: Multi-layer Perceptrons
+Structure: MLP(
+  (fc1): Linear(in_features=4, out_features=20, bias=True)
+  (fc2): Linear(in_features=20, out_features=20, bias=True)
+  (fc3): Linear(in_features=20, out_features=3, bias=True)
+)
+Training size: 105
+Evaluating size: 45
+
+Epoch 1/100
+  train:  Loss: 1.1269  ACC: 30.48%
+  val:    Loss: 1.1530  ACC: 24.44%
+
+Epoch 2/100
+  train:  Loss: 1.1291  ACC: 27.62%
+  val:    Loss: 1.1039  ACC: 24.44%
+
+Epoch 3/100
+  train:  Loss: 1.0910  ACC: 37.14%
+  val:    Loss: 1.1578  ACC: 24.44%
+
+Epoch 4/100
+  train:  Loss: 1.1171  ACC: 27.62%
+  val:    Loss: 1.1092  ACC: 24.44%
+
+Epoch 5/100
+  train:  Loss: 1.0852  ACC: 38.10%
+  val:    Loss: 1.1217  ACC: 24.44%
+
+Epoch 6/100
+  train:  Loss: 1.1040  ACC: 27.62%
+  val:    Loss: 1.0639  ACC: 60.00%
+
+Epoch 7/100
+  train:  Loss: 1.0892  ACC: 44.76%
+  val:    Loss: 1.1380  ACC: 24.44%
+
+Epoch 8/100
+  train:  Loss: 1.0868  ACC: 35.24%
+  val:    Loss: 1.0079  ACC: 75.56%
+
+Epoch 9/100
+  train:  Loss: 1.0155  ACC: 49.52%
+  val:    Loss: 1.0671  ACC: 24.44%
+
+Epoch 10/100
+  train:  Loss: 0.9806  ACC: 56.19%
+  val:    Loss: 0.9324  ACC: 60.00%
+
+Epoch 11/100
+  train:  Loss: 0.9339  ACC: 69.52%
+  val:    Loss: 0.8860  ACC: 60.00%
+
+Epoch 12/100
+  train:  Loss: 0.8283  ACC: 69.52%
+  val:    Loss: 0.8234  ACC: 60.00%
+
+Epoch 13/100
+  train:  Loss: 0.7565  ACC: 60.95%
+  val:    Loss: 0.6448  ACC: 75.56%
+
+Epoch 14/100
+  train:  Loss: 0.6186  ACC: 75.24%
+  val:    Loss: 0.6469  ACC: 60.00%
+
+Epoch 15/100
+  train:  Loss: 0.5587  ACC: 69.52%
+  val:    Loss: 0.5391  ACC: 60.00%
+
+Epoch 16/100
+  train:  Loss: 0.5261  ACC: 73.33%
+  val:    Loss: 0.4647  ACC: 91.11%
+
+Epoch 17/100
+  train:  Loss: 0.4629  ACC: 80.00%
+  val:    Loss: 0.5252  ACC: 60.00%
+
+Epoch 18/100
+  train:  Loss: 0.4405  ACC: 79.05%
+  val:    Loss: 0.4240  ACC: 97.78%
+
+Epoch 19/100
+  train:  Loss: 0.4130  ACC: 97.14%
+  val:    Loss: 0.4566  ACC: 64.44%
+
+Epoch 20/100
+  train:  Loss: 0.3984  ACC: 79.05%
+  val:    Loss: 0.3945  ACC: 86.67%
+
+Epoch 21/100
+  train:  Loss: 0.3588  ACC: 94.29%
+  val:    Loss: 0.3967  ACC: 80.00%
+
+Epoch 22/100
+  train:  Loss: 0.3397  ACC: 95.24%
+  val:    Loss: 0.3639  ACC: 86.67%
+
+Epoch 23/100
+  train:  Loss: 0.3080  ACC: 94.29%
+  val:    Loss: 0.3262  ACC: 95.56%
+
+Epoch 24/100
+  train:  Loss: 0.2934  ACC: 93.33%
+  val:    Loss: 0.2969  ACC: 97.78%
+
+Epoch 25/100
+  train:  Loss: 0.2871  ACC: 93.33%
+  val:    Loss: 0.2854  ACC: 97.78%
+
+Epoch 26/100
+  train:  Loss: 0.2522  ACC: 97.14%
+  val:    Loss: 0.2778  ACC: 97.78%
+
+Epoch 27/100
+  train:  Loss: 0.2498  ACC: 97.14%
+  val:    Loss: 0.2860  ACC: 97.78%
+
+Epoch 28/100
+  train:  Loss: 0.2469  ACC: 96.19%
+  val:    Loss: 0.2988  ACC: 93.33%
+
+Epoch 29/100
+  train:  Loss: 0.2468  ACC: 96.19%
+  val:    Loss: 0.2932  ACC: 93.33%
+
+Epoch 30/100
+  train:  Loss: 0.2441  ACC: 96.19%
+  val:    Loss: 0.2865  ACC: 95.56%
+
+Epoch 31/100
+  train:  Loss: 0.2420  ACC: 96.19%
+  val:    Loss: 0.2796  ACC: 97.78%
+
+Epoch 32/100
+  train:  Loss: 0.2404  ACC: 96.19%
+  val:    Loss: 0.2806  ACC: 95.56%
+
+Epoch 33/100
+  train:  Loss: 0.2400  ACC: 96.19%
+  val:    Loss: 0.2841  ACC: 93.33%
+
+Epoch 34/100
+  train:  Loss: 0.2370  ACC: 96.19%
+  val:    Loss: 0.2774  ACC: 95.56%
+
+Epoch 35/100
+  train:  Loss: 0.2360  ACC: 96.19%
+  val:    Loss: 0.2725  ACC: 97.78%
+
+Epoch 36/100
+  train:  Loss: 0.2339  ACC: 97.14%
+  val:    Loss: 0.2786  ACC: 95.56%
+
+Epoch 37/100
+  train:  Loss: 0.2328  ACC: 96.19%
+  val:    Loss: 0.2798  ACC: 93.33%
+
+Epoch 38/100
+  train:  Loss: 0.2325  ACC: 97.14%
+  val:    Loss: 0.2697  ACC: 97.78%
+
+Epoch 39/100
+  train:  Loss: 0.2304  ACC: 97.14%
+  val:    Loss: 0.2673  ACC: 97.78%
+
+Epoch 40/100
+  train:  Loss: 0.2305  ACC: 96.19%
+  val:    Loss: 0.2808  ACC: 93.33%
+
+Epoch 41/100
+  train:  Loss: 0.2275  ACC: 97.14%
+  val:    Loss: 0.2649  ACC: 97.78%
+
+Epoch 42/100
+  train:  Loss: 0.2255  ACC: 97.14%
+  val:    Loss: 0.2622  ACC: 97.78%
+
+Epoch 43/100
+  train:  Loss: 0.2244  ACC: 97.14%
+  val:    Loss: 0.2662  ACC: 95.56%
+
+Epoch 44/100
+  train:  Loss: 0.2224  ACC: 96.19%
+  val:    Loss: 0.2652  ACC: 95.56%
+
+Epoch 45/100
+  train:  Loss: 0.2212  ACC: 96.19%
+  val:    Loss: 0.2654  ACC: 95.56%
+
+Epoch 46/100
+  train:  Loss: 0.2214  ACC: 96.19%
+  val:    Loss: 0.2567  ACC: 97.78%
+
+Epoch 47/100
+  train:  Loss: 0.2193  ACC: 97.14%
+  val:    Loss: 0.2674  ACC: 95.56%
+
+Epoch 48/100
+  train:  Loss: 0.2177  ACC: 96.19%
+  val:    Loss: 0.2599  ACC: 95.56%
+
+Epoch 49/100
+  train:  Loss: 0.2165  ACC: 97.14%
+  val:    Loss: 0.2526  ACC: 97.78%
+
+Epoch 50/100
+  train:  Loss: 0.2151  ACC: 97.14%
+  val:    Loss: 0.2547  ACC: 97.78%
+
+Epoch 51/100
+  train:  Loss: 0.2136  ACC: 97.14%
+  val:    Loss: 0.2562  ACC: 95.56%
+
+Epoch 52/100
+  train:  Loss: 0.2133  ACC: 97.14%
+  val:    Loss: 0.2567  ACC: 95.56%
+
+Epoch 53/100
+  train:  Loss: 0.2132  ACC: 97.14%
+  val:    Loss: 0.2566  ACC: 95.56%
+
+Epoch 54/100
+  train:  Loss: 0.2132  ACC: 96.19%
+  val:    Loss: 0.2574  ACC: 95.56%
+
+Epoch 55/100
+  train:  Loss: 0.2130  ACC: 96.19%
+  val:    Loss: 0.2577  ACC: 95.56%
+
+Epoch 56/100
+  train:  Loss: 0.2129  ACC: 96.19%
+  val:    Loss: 0.2581  ACC: 95.56%
+
+Epoch 57/100
+  train:  Loss: 0.2128  ACC: 96.19%
+  val:    Loss: 0.2572  ACC: 95.56%
+
+Epoch 58/100
+  train:  Loss: 0.2126  ACC: 96.19%
+  val:    Loss: 0.2563  ACC: 95.56%
+
+Epoch 59/100
+  train:  Loss: 0.2125  ACC: 97.14%
+  val:    Loss: 0.2560  ACC: 95.56%
+
+Epoch 60/100
+  train:  Loss: 0.2124  ACC: 97.14%
+  val:    Loss: 0.2555  ACC: 95.56%
+
+Epoch 61/100
+  train:  Loss: 0.2122  ACC: 97.14%
+  val:    Loss: 0.2552  ACC: 95.56%
+
+Epoch 62/100
+  train:  Loss: 0.2122  ACC: 97.14%
+  val:    Loss: 0.2559  ACC: 95.56%
+
+Epoch 63/100
+  train:  Loss: 0.2120  ACC: 97.14%
+  val:    Loss: 0.2556  ACC: 95.56%
+
+Epoch 64/100
+  train:  Loss: 0.2119  ACC: 96.19%
+  val:    Loss: 0.2562  ACC: 95.56%
+
+Epoch 65/100
+  train:  Loss: 0.2117  ACC: 97.14%
+  val:    Loss: 0.2560  ACC: 95.56%
+
+Epoch 66/100
+  train:  Loss: 0.2117  ACC: 97.14%
+  val:    Loss: 0.2549  ACC: 95.56%
+
+Epoch 67/100
+  train:  Loss: 0.2116  ACC: 97.14%
+  val:    Loss: 0.2536  ACC: 95.56%
+
+Epoch 68/100
+  train:  Loss: 0.2114  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 69/100
+  train:  Loss: 0.2112  ACC: 97.14%
+  val:    Loss: 0.2529  ACC: 97.78%
+
+Epoch 70/100
+  train:  Loss: 0.2112  ACC: 97.14%
+  val:    Loss: 0.2526  ACC: 97.78%
+
+Epoch 71/100
+  train:  Loss: 0.2110  ACC: 97.14%
+  val:    Loss: 0.2526  ACC: 97.78%
+
+Epoch 72/100
+  train:  Loss: 0.2109  ACC: 97.14%
+  val:    Loss: 0.2540  ACC: 95.56%
+
+Epoch 73/100
+  train:  Loss: 0.2107  ACC: 97.14%
+  val:    Loss: 0.2541  ACC: 95.56%
+
+Epoch 74/100
+  train:  Loss: 0.2106  ACC: 97.14%
+  val:    Loss: 0.2542  ACC: 95.56%
+
+Epoch 75/100
+  train:  Loss: 0.2106  ACC: 97.14%
+  val:    Loss: 0.2535  ACC: 95.56%
+
+Epoch 76/100
+  train:  Loss: 0.2104  ACC: 97.14%
+  val:    Loss: 0.2536  ACC: 95.56%
+
+Epoch 77/100
+  train:  Loss: 0.2104  ACC: 97.14%
+  val:    Loss: 0.2537  ACC: 95.56%
+
+Epoch 78/100
+  train:  Loss: 0.2103  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 79/100
+  train:  Loss: 0.2103  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 80/100
+  train:  Loss: 0.2103  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 81/100
+  train:  Loss: 0.2103  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 82/100
+  train:  Loss: 0.2103  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 83/100
+  train:  Loss: 0.2103  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 84/100
+  train:  Loss: 0.2103  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 85/100
+  train:  Loss: 0.2102  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 86/100
+  train:  Loss: 0.2102  ACC: 97.14%
+  val:    Loss: 0.2537  ACC: 95.56%
+
+Epoch 87/100
+  train:  Loss: 0.2102  ACC: 97.14%
+  val:    Loss: 0.2536  ACC: 95.56%
+
+Epoch 88/100
+  train:  Loss: 0.2102  ACC: 97.14%
+  val:    Loss: 0.2537  ACC: 95.56%
+
+Epoch 89/100
+  train:  Loss: 0.2102  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 90/100
+  train:  Loss: 0.2102  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 91/100
+  train:  Loss: 0.2102  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 92/100
+  train:  Loss: 0.2102  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 93/100
+  train:  Loss: 0.2102  ACC: 97.14%
+  val:    Loss: 0.2539  ACC: 95.56%
+
+Epoch 94/100
+  train:  Loss: 0.2101  ACC: 97.14%
+  val:    Loss: 0.2539  ACC: 95.56%
+
+Epoch 95/100
+  train:  Loss: 0.2101  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 96/100
+  train:  Loss: 0.2101  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 97/100
+  train:  Loss: 0.2101  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 98/100
+  train:  Loss: 0.2101  ACC: 97.14%
+  val:    Loss: 0.2538  ACC: 95.56%
+
+Epoch 99/100
+  train:  Loss: 0.2101  ACC: 97.14%
+  val:    Loss: 0.2537  ACC: 95.56%
+
+Epoch 100/100
+  train:  Loss: 0.2101  ACC: 97.14%
+  val:    Loss: 0.2536  ACC: 95.56%
+
+----------
+Training complete in 0m 1s
+Best val Loss: 0.252566 at epoch 49 with ACC: 97.777778%
+Load the model weights at the best epoch
+
+------------------------------
+Evaluating:
+    accuracy: 0.9619
+    macro-f1 score: 0.9621
+    micro-f1 score: 0.9619
+    area uder ROC curve: 0.9981
