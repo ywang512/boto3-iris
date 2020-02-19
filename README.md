@@ -13,5 +13,3 @@ A simple machine learning implementation in aws boto3 environment
 - Other graphics using the same naming methods show the results of EDA and model evaluation.
 
 Please also feel free to check out my [s3 bucket](http://ywang-iris-public.s3-website-us-east-1.amazonaws.com/) for this small project.
-
-Thank you again for your time!
