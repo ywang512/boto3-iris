@@ -7,7 +7,7 @@ A simple machine learning implementation in aws boto3 environment
 
 - `iris-models.ipynb` and `iris-models.py` have the same functions for training and evaluating different models.
 
-- `iris-boto3.ipynb` contains necessary functions for creating ec2 instance and transfering files to ec2 and s3.
+- `iris-boto3.ipynb` and `access-ec2.sh` contains necessary functions for creating ec2 instance and transfering files to ec2 and s3.
 
 - `model-pca-logistic.txt` and `model-MLP.txt` logs the outputs for training and evaluating two different models (PCA+Logistic and MLP).
 
